@@ -1,2 +1,2 @@
 # vimcalendar2txt
-vim calendar plugin content translate to text
+vim calendar plugin contents translate to text
